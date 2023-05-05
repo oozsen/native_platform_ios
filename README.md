@@ -1,6 +1,6 @@
 # native_platform_ios
 
-A new Flutter project.
+BIM494 Mobile Programming 2 course, week08 Native Side Platform Channels Sample Flutter project.
 
 ## Getting Started
 
